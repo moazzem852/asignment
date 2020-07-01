@@ -1,0 +1,168 @@
+section{
+    width: 450px;
+    height: 300px;
+    
+
+    
+}
+
+.apple{
+    background-image: url("background images/header-bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 10px 700px;
+    
+}
+
+h3{ 
+    color: #d84444;
+    padding: 0px 2px 1px 60px;
+
+
+}
+h4{
+    padding: 85px 70px 0px 60px;
+}
+p{
+    font-size: 7px;
+    padding: 1px 0px 1px 60px;
+    
+}
+.button-anchor{
+        text-decoration: none;
+        color: white;
+        background-image: linear-gradient(45deg, #E48E7B  ,#F76040  );
+        padding: 1px 2px;
+        border-radius: 5px;
+        font-weight: 800;
+        margin: 60px ;
+}
+
+.alpa{
+    width: 50%;
+    float: left;
+    text-align: left;
+      
+}
+.alpa img{
+    width: 75%;
+    float: right;
+    padding:85px 40px 0px 0px;
+      
+}
+
+.kola{
+    background-image: url("background images/biography-bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 10px 700px;
+}
+.bita img{
+    width: 75%;
+    float: left;
+    padding: 30px 0px 25px 40px;
+    
+}
+
+.bita{
+    width: 50%;
+    float: left;
+    text-align: left;
+
+}
+.button-cv{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(45deg, #E48E7B  ,#F76040  );
+    padding: 1px 2px;
+    border-radius: 5px;
+    font-weight: 800;
+    margin: 15px ;
+    
+}
+#abul{
+   padding: 55px 90px 0px 15px ;
+}
+#abu{
+   padding:0px 90px 0px 15px;
+
+}
+
+#muri-kha{
+    width: 450px;
+    height: 200px;
+    background-image: url("background images/latest-work-bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 10px 700px;
+}
+
+.ashu-kha{
+    width: 28%;
+    height: 90%;
+    padding: 5px;
+    float: left;
+    
+    
+
+}
+
+.ashu-kha img{
+
+    width: 100%;
+    height: 90%;
+    padding:  10px 25px 15px 25px ;
+
+}
+#some{
+    padding: 65px 30px;
+}
+.foot{
+    width: 430px;
+    height: 300px;
+    background-image:url("background images/footer-bg.png");
+    background-size:100%;
+    background-repeat: no-repeat;
+    margin: 10px 700px;
+    
+    
+}
+footer img{
+    width: 100%;
+}
+#kha{
+    text-align: center;
+    padding: 40px 0px 0px 0px;
+}
+#ga{
+    text-align: center;
+    font-size: 6px;
+    font-weight: 600;
+    padding: 8px 0px 0px 0px;
+}
+#gha{
+    text-align: center;
+    font-size: 4px;
+    padding: 0px 0px 0px 0px;
+    
+}
+footer p{
+    text-align: center;
+    padding: 7px 0px 12px 0px ;
+ }
+ #cha{ 
+    width: 200px;
+    height: 30px;
+    background-color: #fa9681;
+    padding: 5px;  
+    border-radius: 4px;
+    font-size: 6px;
+    text-align: center;
+    position: relative;
+    left: 100px;
+ }
+ #bush{
+    text-align: center;
+    font-size: 7px;
+    padding: 0px 70px 0px 0px;
+ }
